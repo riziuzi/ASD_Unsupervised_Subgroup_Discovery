@@ -1,4 +1,7 @@
  AI NOTES  - 
 
 
- 
+ Neural networks  - All the hidden layers hel[p us to do complex programming .
+ In Deep Learning , No human intervention is required . ]
+ bias decides mainly if neuron gets activated or not . 
+ no activation in input layers
